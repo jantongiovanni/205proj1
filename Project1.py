@@ -11,3 +11,6 @@ pixel_values = list(image.getdata())
 pic = image.load()
 print pic[0,0]
 #comment
+#git add -A
+#git commit -m ""
+#git push -u origin master
