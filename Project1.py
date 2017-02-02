@@ -10,3 +10,4 @@ pixel_values = list(image.getdata())
 
 pic = image.load()
 print pic[0,0]
+#comment
